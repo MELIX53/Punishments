@@ -1,0 +1,6 @@
+main: melix\punishments\PunishManager
+version: 1.0.0
+api: 5.0.0
+name: Punishments
+author: vk.com/oleg_guber
+load: STARTUP
